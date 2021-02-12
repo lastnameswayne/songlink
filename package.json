@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "formik": "^2.2.6"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
