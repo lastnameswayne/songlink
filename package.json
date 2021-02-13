@@ -26,7 +26,7 @@
     "yup": "^0.32.8"
   },
   "scripts": {
-    "server":"nodemon index.js"
+    "server":"node index.js"
   },
   "eslintConfig": {
     "extends": [
