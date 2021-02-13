@@ -13,11 +13,6 @@
 db.json
 # misc
 .DS_Store
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
-.env
 .db.json
 /requests
 npm-debug.log*
