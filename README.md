@@ -11,7 +11,7 @@ SongLink creates a beaitiful landing page for your song! All you have to do is s
 Made by <a href="twitter.com/lastnameswayne">@lastnameswayne</a> on Twitter✅
 
 ## Demo
-![ Alt text](songLinkDemo.gif) / (songLinkDemo.gif)
+![ Alt text](songLinkDemo.gif)
 
 ### Motivation🥳🥳
 I have friend who make music for fun, but unfortunately all of the existing solutions are behind paywalls. This is an alternative to that. Let me know if you have any questions!😁
