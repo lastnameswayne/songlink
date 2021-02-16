@@ -134,7 +134,7 @@ const SongLinkForm = () => {
             />
             <FormHelperText ml={2}>
               Specify a custom unique URL. If you input "123" the link to your
-              track will be heroku.com/song/123!
+              track will be songlink.netlify.app/song/123!
             </FormHelperText>
           </FormControl>
         </Box>
