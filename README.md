@@ -8,7 +8,7 @@ https://songlink.netlify.app/
 SongLink creates a beaitiful landing page for your song! All you have to do is supply a picture, choose your subdomain/url and your track's streaming links  which you want to redirect to!💯
 
 
-Made by <a href="twitter.com/lastnameswayne">@lastnameswayne</a> on Twitter✅
+Made by <a href="https://www.twitter.com/lastnameswayne">@lastnameswayne</a> on Twitter✅
 
 ## Demo
 ![ Alt text](songLinkDemo.gif)
